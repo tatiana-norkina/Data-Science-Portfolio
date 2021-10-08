@@ -4,8 +4,7 @@ library(doParallel)
 library(caret)
 library(smotefamily)
 
-#setwd("H:\\Dropbox\\Dropbox\\Frankfurt Courses\\Data Science\\Termpaper") #set working directory
-setwd("~/R/dropbox/Frankfurt Courses/Data Science/Termpaper") #set working directory
+#setwd #set working directory
 
 source("DailyLevelData_analysis_functions.r")
 
