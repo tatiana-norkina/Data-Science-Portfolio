@@ -6,7 +6,7 @@ Repository containing portfolio of data science projects completed by me for aca
 
 ### Machine Learning
 
-<strong>Prediction of Check-In Behavior for the Restaurant Category</strong>
+[Prediction of Check-In Behavior for the Restaurant Category](https://github.com/tatiana-norkina/data-science-portfolio/blob/69fa6224ab9ea08d158c15f14b44c45f1efd2516/Prediction%20of%20Check-In%20Behavior/DailyLevelData_analysis_short.r) 
 
 Goal: Restaurants need to know what internal and external factors drive customer behavior. For that, it is needed to accurately predict whether a consumer will visit a restaurant and to determine the most important variables influencing his behavior.
 
