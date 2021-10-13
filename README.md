@@ -23,7 +23,7 @@ Solution: 170k Spotify songs were merged with key song attributes such as their 
 
 Result: Exploratory Data Analysis has revealed that over time songs have become shorter due to financial incentives of the streaming market. Today danceability and energy of songs are key song features which determine the success on Spotify. For the prediction task completion, the lowest RMSE was achieved by implementation of Random Forest algorithm among other algorithms.    
 
-[Prediction of Cross-Selling Opportunities of a Bank!](https://github.com/tatiana-norkina/data-science-portfolio/blob/69fa6224ab9ea08d158c15f14b44c45f1efd2516/Prediction%20of%20Check-In%20Behavior/DailyLevelData_analysis_short.r) 
+[Prediction of Cross-Selling Opportunities of a Bank](https://github.com/tatiana-norkina/data-science-portfolio/blob/69fa6224ab9ea08d158c15f14b44c45f1efd2516/Prediction%20of%20Check-In%20Behavior/DailyLevelData_analysis_short.r) 
 
 Goal: To build an accurate predictive model in order to correctly classify customers and therefore increase effectiveness of direct marketing of a bank.
 
