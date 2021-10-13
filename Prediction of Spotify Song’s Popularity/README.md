@@ -1,6 +1,6 @@
 # Prediction of Spotify Song’s Popularity and EDA 
 
-This project was conducted during participation at TechAcademy of Goethe University. TechAcademy is a student initiative that aims to raise up students as next digital leaders. 
+This project was conducted during participation in TechAcademy Program of Goethe University. TechAcademy is a student initiative that aims to raise up students as next digital leaders. 
 
 Goal of the project: To draw meaningful patterns and insights from a data set with various song attributes, and build the most accurate prediction model of song popularity.
 
