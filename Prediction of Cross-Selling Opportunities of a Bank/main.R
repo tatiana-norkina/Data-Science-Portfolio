@@ -12,7 +12,7 @@ rm(list = ls())
 wd <- "C:\\your_directory_here" # modify path depending on where you saved the data set
 setwd(wd)
 
-read.csv("xsell.csv")
+xsell <- read.csv("xsell.csv")
 
 xsell$X <- NULL ### csv file contains X variable that should be deleted
 
