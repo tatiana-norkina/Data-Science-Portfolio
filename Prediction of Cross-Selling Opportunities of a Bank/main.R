@@ -177,7 +177,7 @@ xsell_valid_tuned$pred_xgb_factor <- factor(ifelse(xsell_valid_tuned$pred_xgb>.5
 # check accuracy with the confusion matrix 
 library(caret)
 
-# non-tuned XGBoost model
+# tuned XGBoost model
 confusionMatrix(xsell_valid_tuned$pred_xgb_factor,factor(xsell_valid_tuned$xsell,labels=c("No xsell","xsell")), 
                 positive="xsell",dnn = c("Prediction", "Actual Data"))
 
@@ -195,7 +195,7 @@ xsell_train_tuned$pred_xgb_factor <- factor(ifelse(xsell_train_tuned$pred_xgb>.5
 # check accuracy with the confusion matrix 
 library(caret)
 
-# non-tuned XGBoost model
+# tuned XGBoost model
 confusionMatrix(xsell_train_tuned$pred_xgb_factor,factor(xsell_train_tuned$xsell,labels=c("No xsell","xsell")), 
                 positive="xsell",dnn = c("Prediction", "Actual Data"))
 
@@ -245,7 +245,7 @@ xsell_valid_tuned$pred_xgb_factor <- factor(ifelse(xsell_valid_tuned$pred_xgb>.5
 # check accuracy with the confusion matrix 
 library(caret)
 
-# non-tuned XGBoost model
+# tuned XGBoost model
 confusionMatrix(xsell_valid_tuned$pred_xgb_factor,factor(xsell_valid_tuned$xsell,labels=c("No xsell","xsell")), 
                 positive="xsell",dnn = c("Prediction", "Actual Data"))
 
@@ -263,7 +263,7 @@ xsell_train_tuned$pred_xgb_factor <- factor(ifelse(xsell_train_tuned$pred_xgb>.5
 # check accuracy with the confusion matrix 
 library(caret)
 
-# non-tuned XGBoost model
+# tuned XGBoost model
 confusionMatrix(xsell_train_tuned$pred_xgb_factor,factor(xsell_train_tuned$xsell,labels=c("No xsell","xsell")), 
                 positive="xsell",dnn = c("Prediction", "Actual Data"))
 
